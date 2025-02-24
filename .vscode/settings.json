@@ -1,0 +1,15 @@
+{
+	"files.exclude": {
+		"**/.git": true,
+		"**/.svn": true,
+		"**/.hg": true,
+		"**/CVS": true,
+		"**/.DS_Store": true,
+		"**/*.o": true,
+		"**/*.exe": false,
+	},
+	"files.associations": {
+		"*.embeddedhtml": "html",
+		"cmath": "cpp"
+	}
+}
